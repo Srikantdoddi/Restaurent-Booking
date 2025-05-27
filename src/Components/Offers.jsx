@@ -6,8 +6,8 @@ import { RiSecurePaymentLine, RiCustomerServiceLine } from "react-icons/ri";
 const offersData = [
   {
     icon: <MdOutlineEventSeat size={50} className="text-red-600" />,
-    title: "Live Events",
-    description: "Experience vibrant live entertainment.",
+    title: "Fine Dining",
+    description: "Enjoy gourmet meals prepared by top chefs",
   },
   {
     icon: <CiBookmarkCheck size={50} className="text-red-600" />,
