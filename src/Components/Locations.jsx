@@ -23,7 +23,7 @@ const Locations = () => {
 
         {/* Location Cards */}
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6">
-          {['Hyderabad', 'Delhi', 'Mumbai'].map((city, index) => (
+          {['Hitec City', 'Kukktpally', 'Banjara hills'].map((city, index) => (
             <div
               key={index}
               className="bg-white p-6 shadow-md flex justify-between items-center rounded-md cursor-pointer transform transition duration-300 hover:-translate-y-2"
